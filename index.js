@@ -3,9 +3,9 @@ const { default: axios } = require('axios');
 const cron = require('node-cron');
 
 const telegram_self = new Snake({
-    apiHash: '4040c8905c5fc79801b7d9c1f4bd7940',
-    apiId: 21019866,
-    botToken: '5764299760:AAGeIj71XOOir_rB_fQ1I4y5C1r8d9qaQto'
+    apiHash: '',
+    apiId: '',
+    botToken: ''
 });
 
 const API_URL = 'https://public.freeproxyapi.com/api/Proxy/Mini';
